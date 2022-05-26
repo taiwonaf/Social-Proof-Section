@@ -63,7 +63,7 @@ p {
 }
 
 .ratings {
-    max-width: 540px;
+    width: 540px;
     display: flex;
     flex-direction: column;
     align-self: center;
@@ -212,7 +212,7 @@ p.verify {
     }
 
     .ratings {
-        max-width: 100%;
+        width: 100%;
     }
 
     .rating {
